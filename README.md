@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NaitWatch
-- :mage_man: Old school coder (Hex) thats migrating to web stuff ;)
+- :mage_man: Old school coder (Hex), migrating to web stuff ;)
 - 🌱 Expect everything to be a product commerical. 
 - :heart: github.com
 - :skull_and_crossbones: Frameworks/Products that lock you up to stay in them.
