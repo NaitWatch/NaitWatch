@@ -16,6 +16,8 @@ Twitter:<br>
 | ------------- | ------------- |
 | GitHub Markdown  | https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax  |
 | GitHub emoji  | https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md  |
+| Target frameworks  | https://docs.microsoft.com/en-Us/dotnet/standard/frameworks  |
+| .NET Standard  | https://docs.microsoft.com/en-us/dotnet/standard/net-standard  |
 
 
 
