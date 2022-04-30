@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @NaitWatch
-- :mage_man: Old school coder (Hex), migrating to web stuff ;)
+- :mage_man: You will see some unusual stuff here ;)
 - 🌱 Expect everything to be a product commerical. 
 - :heart: github.com
 - :skull_and_crossbones: Frameworks/Products that lock you up to stay in them.
-- :skull_and_crossbones: Subscribe my course, read my book, use my framework, learn my language for productivity and success. <- lol
+- :test_tube: Only use complex coding patterns if you need to, most of them are just taste.
 - 📫 How to reach me ...<br>
 
 Twitter:<br>
